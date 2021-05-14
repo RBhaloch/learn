@@ -1,0 +1,24 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "nodejs  basic concepts",
+  "main": "global.js",
+  "dependencies": {
+    "require": "^2.4.20",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranaravinder/learn.git"
+  },
+  "author": "Ravinder Singh Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranaravinder/learn/issues"
+  },
+  "homepage": "https://github.com/ranaravinder/learn#readme"
+}
