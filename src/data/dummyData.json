@@ -1,0 +1,540 @@
+{
+    "centers": [
+      {
+        "center_id": 255584,
+        "name": "Polly Sheet Kathgodam",
+        "address": "Kathgodam Polly Sheet",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 0,
+        "long": 0,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "431783e5-ec06-470b-a710-e6d1d3ddb78b",
+            "date": "14-05-2021",
+            "available_capacity": 86,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 697513,
+        "name": "MBPG Degree College Haldwani 2",
+        "address": "MBPG Degree College Haldwani Bhotiya Padaw",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "97a9f82c-7b85-405a-955f-a6ea4832453f",
+            "date": "14-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 18,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          },
+          {
+            "session_id": "0fde2cfa-4968-45ae-8e97-347074987079",
+            "date": "15-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 18,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 564403,
+        "name": "Pandey Niwar PHC",
+        "address": "Pandey Niwar",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "dbfffa07-5f72-4214-a156-beb33b6119cf",
+            "date": "14-05-2021",
+            "available_capacity": 78,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 697541,
+        "name": "MBPG Degree College Haldwani 1",
+        "address": "MBPG Degree College Haldwani Booth 1 Bhitiya Padav",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "990eaf57-258b-4b67-b174-201f159f7fbf",
+            "date": "14-05-2021",
+            "available_capacity": 132,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 564144,
+        "name": "Government Medical College PCI",
+        "address": "Haldwani",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "6d0a8784-c969-4b88-bc98-c018f2c2be63",
+            "date": "14-05-2021",
+            "available_capacity": 89,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 561717,
+        "name": "Government Medical College LT",
+        "address": "Haldwani",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "d0bf85cf-8651-43af-a0b4-a7b7caa5f585",
+            "date": "14-05-2021",
+            "available_capacity": 106,
+            "min_age_limit": 45,
+            "vaccine": "COVAXIN",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 700744,
+        "name": "Hargovind Suyal School HLD",
+        "address": "Hargovind Suyal Inter College Haldwani",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "6a0c435e-b2f3-4c83-9c4e-3e734f96ef99",
+            "date": "14-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 18,
+            "vaccine": "COVAXIN",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          },
+          {
+            "session_id": "aa804dcc-3d3e-4d99-b85e-62ee1dfe5ced",
+            "date": "15-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 18,
+            "vaccine": "COVAXIN",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 609257,
+        "name": "Smt Usha Bahuguna Alpha Health",
+        "address": "Jagdamba Nagar",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Paid",
+        "sessions": [
+          {
+            "session_id": "b0ee5e63-84f7-4ba2-adc8-30c9f8ef4d00",
+            "date": "14-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          },
+          {
+            "session_id": "500c90ec-30fa-4f5d-b36e-02203428c7fe",
+            "date": "15-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          },
+          {
+            "session_id": "19a14f5a-955a-448b-9715-23b3cbeb331c",
+            "date": "16-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          },
+          {
+            "session_id": "55d491de-ad7d-4ec7-9d37-418690ded926",
+            "date": "17-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          },
+          {
+            "session_id": "4baa6b6c-ea93-42f1-a82c-7e3be39b9f9c",
+            "date": "18-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          },
+          {
+            "session_id": "bbe97338-b0b6-4c40-9b16-0990da731fcf",
+            "date": "19-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          },
+          {
+            "session_id": "2dca7485-2cbc-4431-827c-37604089edcd",
+            "date": "20-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 564320,
+        "name": "Primary School Motahaldu",
+        "address": "Motahaldu",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "d71ff25d-a401-467a-bbdf-741f4120ea78",
+            "date": "14-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 700716,
+        "name": "Ramleela Ground Unchapul HLD",
+        "address": "Ramleela Ground Unchapul Haldwani",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "748a9cfd-0b45-4ec2-8b97-e9226b777830",
+            "date": "14-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 609153,
+        "name": "City Hospital Haldwani",
+        "address": "Teenpani Bareilly Road Haldwani",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Paid",
+        "sessions": [
+          {
+            "session_id": "3eaf3a5b-d28f-406d-9a25-184bb90ced4d",
+            "date": "14-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          },
+          {
+            "session_id": "55682ded-cfd1-44f9-9a9d-e01a172020f5",
+            "date": "16-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 611530,
+        "name": "Heart Care Centre",
+        "address": "Heart Care Centre Haldwani Behind PWD Colony",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "f06577c8-e9e6-4423-9841-057adb9cefc6",
+            "date": "14-05-2021",
+            "available_capacity": 69,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 700768,
+        "name": "Khalsa Girls Inter College HLD",
+        "address": "Khalsa Girls Inter College Thandi Sadak Haldwani",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "58fb61cd-c024-47ef-8814-c60d25b914d8",
+            "date": "14-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 18,
+            "vaccine": "COVAXIN",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          },
+          {
+            "session_id": "d99f57f2-4eb6-4f16-9bc4-8dc34ab757b6",
+            "date": "15-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 18,
+            "vaccine": "COVAXIN",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      },
+      {
+        "center_id": 630898,
+        "name": "ECHS PC HLD (Only For Defence)",
+        "address": "Haldwani",
+        "state_name": "Uttarakhand",
+        "district_name": "Nainital",
+        "block_name": "Haldwani",
+        "pincode": 263139,
+        "lat": 29,
+        "long": 79,
+        "from": "09:00:00",
+        "to": "17:00:00",
+        "fee_type": "Free",
+        "sessions": [
+          {
+            "session_id": "082c4e1a-d116-4e6e-a8a4-0ab124e9bbda",
+            "date": "14-05-2021",
+            "available_capacity": 0,
+            "min_age_limit": 45,
+            "vaccine": "COVISHIELD",
+            "slots": [
+              "09:00AM-11:00AM",
+              "11:00AM-01:00PM",
+              "01:00PM-03:00PM",
+              "03:00PM-05:00PM"
+            ]
+          }
+        ]
+      }
+    ]
+  }
